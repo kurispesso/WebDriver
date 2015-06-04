@@ -1,5 +1,7 @@
 <?php
 
+namespace WebDriverJs;
+
 class CasperJs extends PhantomJs {
 
     /**
